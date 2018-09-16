@@ -5,9 +5,9 @@
     "homepage": "http://querylist.oyjz.cn",
     "require": {
         "PHP":">=7.0",
-        "oyjz/phpquery-single": "^0.9",
+        "oyjz/phpquery-single": "dev-master",
         "tightenco/collect": "^5",
-        "jaeger/g-http": "^1.1"
+        "oyjz/ghttp": "dev-master"
     },
     "suggest":{
 
